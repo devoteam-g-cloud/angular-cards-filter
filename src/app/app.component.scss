@@ -1,0 +1,66 @@
+.main {
+    margin: 50px;
+}
+
+.main_content {
+  height: 85vh;
+  padding-top: 110px;
+}
+
+.user-avatar {
+  border-radius: 50%;
+}
+
+.fixed-section {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+
+.custom-title {
+  font-size: 14px;
+  font-weight: 500;
+  font-weight: 400;
+}
+
+.filter-div {
+  width: 100%;
+}
+
+.role-card {
+  display: flex;
+  flex-direction: column;
+}
+
+
+.card-info {
+  font-size: 15px;
+}
+
+.card-action {
+  position: absolute;
+  right: 20px;
+}
+
+.card-head {
+  width: -webkit-fill-available;
+  text-align: center;
+}
+.card-body {
+  width: -webkit-fill-available;
+  text-align: center;
+}
+
+
+
+.paginator{
+  position: absolute;
+  right: 15rem;
+}
+
+
+.filter-field{
+  padding-left: 2rem;
+  width: 20rem;
+}
